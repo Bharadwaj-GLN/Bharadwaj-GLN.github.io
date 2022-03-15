@@ -12,7 +12,7 @@ I am a 26 year old individual 🧔🏻‍♂️ who takes interest in the subjec
 I am currently pursuing a Master's degree in the field of Artificial Intelligence 💻🧑🏻‍💻 from University of Essex Online 🏫.  We are currently in our first module, Understanding AI 📚📑.
 
 #### Professional Summary.
-I have previously wored as a Data Scientist for nearly 10 months where in I was exposed to multiple AI and Machine Learning (ML) concepts. I also have a fair amount of experience in the customer support domain. I intend to establish a career in the field of Data Science and pursuing a Master's Degree should prove to be beneficial.
+I have previously worked as a Data Scientist for nearly 10 months where in I come across multiple AI and Machine Learning (ML) concepts in brief. I also have a fair amount of experience in the customer support domain. I intend to establish a career in the field of Data Science and pursuing a Master's Degree should prove to be beneficial.
 
 #### Contact Info and Socials
 - 📲 : +918019761936
