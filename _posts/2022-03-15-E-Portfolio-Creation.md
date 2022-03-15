@@ -3,7 +3,7 @@ layout: post
 title: Creating An E-portfolio
 subtitle: Steps and resource included for how to create an e-portfolio
 categories: E-Portfolio
-tags: [Intro, EPortfolio, Guide]
+tags: [Intro, EPortfolio, Guide, Git, GitHub]
 ---
 
 ## Steps to create an E-portfolio
