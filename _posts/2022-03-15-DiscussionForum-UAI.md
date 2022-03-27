@@ -20,7 +20,7 @@ tags: [Activity, Discussion, Forum, Articles, AI]
 - Basics of the Integrated Development environment(IDE) were covered.
 - A session on Industry4.0 has occurred.
 
-## What havewe done in week 3 ?
+## What have we done in week 3 ?
 - Week 3 was focused on reading more about the history of AI and its ethical limitations.
 - A summary post has been made ensuring subject knowledge is maintained.
 - All the completed work has been pused into GitHub.
