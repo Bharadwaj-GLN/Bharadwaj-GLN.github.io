@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Guide
 subtitle: Resources to work with Markdown
-categories: markdown
+categories: Markdown
 tags: [Guide, Markdown]
 ---
 
