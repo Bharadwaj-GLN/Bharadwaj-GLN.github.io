@@ -2,7 +2,7 @@
 layout: post
 title: UAI_PCOM7E
 subtitle: Module1 Understanding Artificial Intelligence (AI)
-categories: Module Info
+categories: Module_Info
 tags: [Activity, Discussion, Forum, Articles, AI, Information]
 ---
 
