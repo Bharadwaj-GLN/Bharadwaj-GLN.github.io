@@ -1,32 +1,28 @@
 ---
 layout: post
 title: UAI_PCOM7E
-subtitle: Collaborative Learning Discussion Week 1
-categories: DiscussionForum
-tags: [Activity, Discussion, Forum, Articles, AI]
+subtitle: Module1 Understanding Artificial Intelligence (AI)
+categories: Module Info
+tags: [Activity, Discussion, Forum, Articles, AI, Information]
 ---
 
-## What have we done in week 1 ?
+## Summary of Discussion Forums
 
-- Resources about the history of AI were referred.
-- Posts were made for discussion about the various aspects of AI like:
-  - Ethical practices in various domains. 
-  - Importance and usage of AI in various sectors. 
-  - Limitations and regulations to be imposed on AI for better usage of the technology.
-- Responses to students' discussion topics were sent.
+### Discussion 1:
+- Initial post about AI was made by peers highlighting the ethical and professional issues faced by companies using AI.
+- Supporting and opposing statements were given as responses to the initial posts.
+- Understood various methodologies, techniques, softwares, and algorithms used by companies that they use to accomplish their goals.
 
-## What have we done in week 2?
-- Discussions were opened and opinions were posted on the threads.
-- Basics of the Integrated Development environment(IDE) were covered.
-- A session on Industry4.0 has occurred.
+### Discussion 2:
+- Information on various Machine Learning (ML) algorithms was presented as initial posts.
+- Peer responses were made on the same, by stating additional facts and examples.
+- Criticality of the methodologies, and the ML algorithms was observed.
 
-## What have we done in week 3 ?
-- Week 3 was focused on reading more about the history of AI and its ethical limitations.
-- A summary post has been made ensuring subject knowledge is maintained.
-- All the completed work has been pused into GitHub.
 
-## Key Takeaways
+## Key Takeaways From the Module
 - The history of AI.
 - Various domains using AI.
 - Limitations of AI in those domains.
 - The ethical measures around AI for creating efficient solutions.
+- Common approach of tackling the problems in the domains.
+- Building solutions using a no-code ML software.
