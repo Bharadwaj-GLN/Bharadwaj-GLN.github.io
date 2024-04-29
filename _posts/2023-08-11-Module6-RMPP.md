@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Research Methods and Professional Practices (RMPP_PCOM7E) 
